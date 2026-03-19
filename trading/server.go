@@ -24,7 +24,7 @@ type TradeData struct {
 }
 
 // 正确的Token
-const correctToken = 781818
+const correctToken = xxxx
 
 // 交易请求文件路径
 const tradeRequestFile = "trade_requests.json"
