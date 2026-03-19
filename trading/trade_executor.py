@@ -38,7 +38,7 @@ PROCESSED_REQUESTS_FILE = 'processed_requests.txt'
 # 已处理的请求ID集合
 processed_requests = set()
 # 正确的Token
-CORRECT_TOKEN = 781818
+CORRECT_TOKEN = xxxx
 
 
 def parse_args():
