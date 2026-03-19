@@ -77,7 +77,7 @@ go build -o server.exe server.go
     "qty": 100,
     "price": 10.0,
     "trade_time": "2026-03-16 10:00:00",
-    "token": 781818
+    "token": xxxx
   }
 ]
 ```
