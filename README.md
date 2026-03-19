@@ -23,9 +23,9 @@ jqktrader/
 ├── trade_executor.py  # Python编写的交易执行器，执行交易操作
 ├── start_trading.ps1  # PowerShell启动脚本
 ├── README.md          # 项目说明文档
-├── trade_requests.json    # 交易请求文件
-├── processed_requests.txt # 已处理的请求ID文件
-└── server_processed_requests.txt # 服务器已处理的请求ID文件
+├── trade_requests.json    # 交易请求文件[自动生成]
+├── processed_requests.txt # 已处理的请求ID文件[自动生成]
+└── server_processed_requests.txt # 服务器已处理的请求ID文件[自动生成]
 ```
 
 ## 安装步骤
